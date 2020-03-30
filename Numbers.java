@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
  * Lesson 5.1, Display Min and Max when user inputs cancel.
  * Thoughts and ideas: 
  * Tried making the entire project using INT (for some reason), but that just wouldn't work.
- * 
+ *  HAR INTE GJORT NÅT DIREKT MEN TESTAR
  */
 
 public class Numbers {
